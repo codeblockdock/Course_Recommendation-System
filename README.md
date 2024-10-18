@@ -1,6 +1,6 @@
 # Course_Recommendation-System
 Course Recommendation System using Cosine Similarity
-Overview
+Overview:
 This project is a Course Recommendation System that suggests relevant courses to users based on their interests or historical preferences. The system uses Cosine Similarity to measure the similarity between user preferences and course data, providing personalized recommendations.
 
 Features
